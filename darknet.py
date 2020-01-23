@@ -1,4 +1,6 @@
 # so we build the net here ? ? ?? ???? ?
+# I really am trying my best here ok?
+# https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-2/
 
 '''
 structure
@@ -39,5 +41,6 @@ layers = -4
 
 [route]
 layers = -1, 61
+
 '''
 
